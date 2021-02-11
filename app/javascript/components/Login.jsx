@@ -1,5 +1,3 @@
-/*  */
-// <!------ Include the above in your HEAD tag ---------->
 import React from "react";
 
 export default () => (
